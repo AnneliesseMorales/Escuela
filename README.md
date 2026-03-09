@@ -16,4 +16,4 @@ Usamos PDA con seeds en todas las cuentas para mayor seguridad y manejo de direc
 
 La validación has_one = owner garantiza que solo el dueño pueda modificar la escuela y sus alumnos.
 
-Este patrón es ideal para manejar listas dinámicas con control completo y seguridad on-chain en Solana con Ancho
+Este patrón es ideal para manejar listas dinámicas con control completo y seguridad on-chain en Solana con Anchor
